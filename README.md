@@ -1,4 +1,4 @@
 Contributor:
 
-- `Wahyu Rahmanto> - <FE3123393`
+- `Wahyu Rahmanto - FE3123393`
 - Bob
